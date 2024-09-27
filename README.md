@@ -4,13 +4,13 @@
 
 ## 변수 설명
 
-| Variable Name         | Type       | Label         | Description                                            | Units | Codes                | 결측값 처리    | Source      |
+| Variable         | Variable Name       | Measurement Unit         | Allowed Values                                            | Description |
 |----------------|------------|----------------|-------------------------------------------------|------|--------------------------|----------------|-----------------|
-| Date           | Date       | 날짜           | 데이터가 기록된 날짜                            | NA   | NA                       | 없음           | 내부 데이터     |
-| Temp           | Float      | 기온           | 해당 날짜의 평균 기온                            | °C   | NA                       | -99 = 결측     | 기상청           |
-| Sales          | Integer    | 판매량         | 당일 총 판매량                                   | 개수 | NA                       | 0 = 판매 없음  | 판매 데이터      |
-| Customer_Type  | Categorical| 고객 유형       | 고객의 유형을 나타냄 (개인, 기업)                  | NA   | 1 = 개인, 2 = 기업        | NA             | 고객 데이터베이스|
-| Satisfaction   | Integer    | 고객 만족도     | 고객의 서비스 만족도 (1-5 점수)                   | 점수 | 1-5                       | NA             | 설문 조사        |
+| Date           | Date       | 날짜           | 데이터가 기록된 날짜                            | NA   | NA                       |
+| Temp           | Float      | 기온           | 해당 날짜의 평균 기온                            | °C   | NA                       |
+| Sales          | Integer    | 판매량         | 당일 총 판매량                                   | 개수 | NA                       |
+| Customer_Type  | Categorical| 고객 유형       | 고객의 유형을 나타냄 (개인, 기업)                  | NA   | 1 = 개인, 2 = 기업        |
+| Satisfaction   | Integer    | 고객 만족도     | 고객의 서비스 만족도 (1-5 점수)                   | 점수 | 1-5                       |
 
 ## 데이터 수집 방법
 
