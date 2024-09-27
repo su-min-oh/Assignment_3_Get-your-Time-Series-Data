@@ -6,7 +6,7 @@
 
 | Variable         | Variable Name       | Measurement Unit         | Allowed Values                                            | Description |
 |----------------|------------|----------------|-------------------------------------------------|------|
-| Year           | Year       | Year           | 데이터가 기록된 날짜                            | NA   | NA                       |
+| Year           | Year       | Year           | 2000-2023                            | NA   | NA                       |
 | Month           | Month      | Month           | 해당 날짜의 평균 기온                            | °C   | NA                       |
 | Domestic Air Travel Passengers          | Dom_Pax    | Numeric         | 당일 총 판매량                                   | 개수 | NA                       |
 | International Air Travel Passengers   | Int_Pax| Numeric       | 고객의 유형을 나타냄 (개인, 기업)                  | NA   | 1 = 개인, 2 = 기업        |
