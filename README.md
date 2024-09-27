@@ -5,17 +5,17 @@
 
 | Variable                             | Variable Name | Measurement Unit | Allowed Values     | Description |
 |--------------------------------------|---------------|------------------|--------------------|-------------|
-| Year                                 | Year          | Year             | 2000-2023          | NA          | 
-| Month                                | Month         | Month            | 1-12               | °C          | 
-| Domestic Air Travel Passengers       | Dom_Pax       | Numeric          | 2877290-75378157   | 개수         |
-| International Air Travel Passengers  | Int_Pax       | Numeric          | 136609-12432615    | NA          |
-| Total Air Travel Passengers          | Pax           | Numeric          | 3013899-87810772   | 점수 |
-| Domestic Number of Flights           | Dom_Flt       | Numeric          | 217262-890938      | 점수 |
-| International Number of Flights      | Int_Flt       | Numeric          | 4996-82681         | 점수 |
-| Total Number of Flights              | Flt           | Numeric          | 222280-964102      | 점수 |
-| Domestic Revenue Passenger-Miles     | Dom_RPM       | Numeric          | 2551127-72267904   | 점수 |
-| International Revenue Passenger-Miles| Int_RPM       | Numeric          | 356762-31376000    | 점수 |
-| Total Revenue Passenger-Miles        | RPM           | Numeric          | 2907889-103643904  | 점수 |
+| Year                                 | Year          | Year             | 2000-2023          | The year in which the data was recorded          | 
+| Month                                | Month         | Month            | 1-12               | The month in which the data was recorded          | 
+| Domestic Air Travel Passengers       | Dom_Pax       | Numeric          | 2877290-75378157   | Number of domestic travel passengers for the month        |
+| International Air Travel Passengers  | Int_Pax       | Numeric          | 136609-12432615    | Number of international travel passengers for the month          |
+| Total Air Travel Passengers          | Pax           | Numeric          | 3013899-87810772   | Number of total travel passengers for the month |
+| Domestic Number of Flights           | Dom_Flt       | Numeric          | 217262-890938      | Number of domestic flights for the month |
+| International Number of Flights      | Int_Flt       | Numeric          | 4996-82681         | Number of international flights for the month |
+| Total Number of Flights              | Flt           | Numeric          | 222280-964102      | Number of total flights for the month |
+| Domestic Revenue Passenger-Miles     | Dom_RPM       | Numeric          | 2551127-72267904   | Total miles traveled by domestic travel passengers, reported in thousands |
+| International Revenue Passenger-Miles| Int_RPM       | Numeric          | 356762-31376000    | Total miles traveled by international travel passengers, reported in thousands |
+| Total Revenue Passenger-Miles        | RPM           | Numeric          | 2907889-103643904  | Total miles traveled by all travel passengers, reported in thousands |
 | Domestic Available Seat-miles        | Dom_ASM       | Numeric          | 19489079-81997399  | 점수 |
 | International Available Seat-miles   | Int_ASM       | Numeric          | 1541419-35326191   | 점수 |
 | Total Available Seat-miles           | ASM           | Numeric          | 21030499-117312202 | 점수 |
