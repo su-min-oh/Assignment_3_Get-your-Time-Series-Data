@@ -20,9 +20,9 @@
 | Domestic Available Seat-miles        | Dom_ASM       | Numeric          | 19489079-81997399  | 점수 |
 | International Available Seat-miles   | Int_ASM       | Numeric          | 1541419-35326191   | 점수 |
 | Total Available Seat-miles           | ASM           | Numeric          | 21030499-117312202 | 점수 |
-| Domestic Load Factor                 | Dom_LF        | Numeric          |  | 점수 |
-| International Load Factor            | Int_LF        | Numeric          | 고객의 서비스 만족도 (1-5 점수) | 점수 |
-| Total Load Factor                    | LF            | Numeric          | 고객의 서비스 만족도 (1-5 점수) | 점수 |
+| Domestic Load Factor                 | Dom_LF        | Numeric          | 13.09-89.96        | 점수 |
+| International Load Factor            | Int_LF        | Numeric          | 23.15-89.44        | 점수 |
+| Total Load Factor                    | LF            | Numeric          | 13.83-89.14        | 점수 |
 
 ## 데이터 수집 방법
 
