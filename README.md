@@ -1,6 +1,6 @@
 # Assignment_3_Get-your-Time-Series-Data
 
-# 데이터 딕셔너리
+#2. Data Dictionary
 
 이 데이터 딕셔너리는 시계열 데이터 분석을 위한 예시 데이터에 대한 정보를 제공합니다.
 
