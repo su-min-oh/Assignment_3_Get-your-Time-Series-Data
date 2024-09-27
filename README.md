@@ -1,8 +1,7 @@
 # Assignment_3_Get-your-Time-Series-Data
 
+## 1. CSV file uploaded to repository
 ## 2. Data Dictionary
-
-## 변수 설명
 
 | Variable                             | Variable Name | Measurement Unit | Allowed Values     | Description |
 |--------------------------------------|---------------|------------------|--------------------|-------------|
