@@ -16,12 +16,12 @@
 | Domestic Revenue Passenger-Miles     | Dom_RPM       | Numeric          | 2551127-72267904   | Total miles traveled by domestic travel passengers, reported in thousands |
 | International Revenue Passenger-Miles| Int_RPM       | Numeric          | 356762-31376000    | Total miles traveled by international travel passengers, reported in thousands |
 | Total Revenue Passenger-Miles        | RPM           | Numeric          | 2907889-103643904  | Total miles traveled by all travel passengers, reported in thousands |
-| Domestic Available Seat-miles        | Dom_ASM       | Numeric          | 19489079-81997399  | 점수 |
-| International Available Seat-miles   | Int_ASM       | Numeric          | 1541419-35326191   | 점수 |
-| Total Available Seat-miles           | ASM           | Numeric          | 21030499-117312202 | 점수 |
-| Domestic Load Factor                 | Dom_LF        | Numeric          | 13.09-89.96        | 점수 |
-| International Load Factor            | Int_LF        | Numeric          | 23.15-89.44        | 점수 |
-| Total Load Factor                    | LF            | Numeric          | 13.83-89.14        | 점수 |
+| Domestic Available Seat-miles        | Dom_ASM       | Numeric          | 19489079-81997399  | the product of the number of seats available and the distance flown, reported in thousands(domestic) |
+| International Available Seat-miles   | Int_ASM       | Numeric          | 1541419-35326191   | the product of the number of seats available and the distance flown, reported in thousands(international) |
+| Total Available Seat-miles           | ASM           | Numeric          | 21030499-117312202 | the product of the number of seats available and the distance flown, reported in thousands(total) |
+| Domestic Load Factor                 | Dom_LF        | Numeric          | 13.09-89.96        | percentage of RPM/ASM, indicating the efficiency of utilization(domestic) |
+| International Load Factor            | Int_LF        | Numeric          | 23.15-89.44        | percentage of RPM/ASM, indicating the efficiency of utilization(international) |
+| Total Load Factor                    | LF            | Numeric          | 13.83-89.14        | percentage of RPM/ASM, indicating the efficiency of utilization(total) |
 
 ## 데이터 수집 방법
 
