@@ -23,7 +23,7 @@
 | International Load Factor            | Int_LF        | Numeric          | 23.15-89.44        | percentage of RPM/ASM, indicating the efficiency of utilization(international) |
 | Total Load Factor                    | LF            | Numeric          | 13.83-89.14        | percentage of RPM/ASM, indicating the efficiency of utilization(total) |
 
-## 데이터 수집 방법
+## 3. Data Collection Methodology
 
 - **날짜 및 기온 데이터**: 매일 자동으로 기상청에서 수집합니다.
 - **판매량 데이터**: 매일 매장 폐점 후 집계하여 기록합니다.
