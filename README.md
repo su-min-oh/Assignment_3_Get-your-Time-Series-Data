@@ -6,11 +6,17 @@
 
 | Variable         | Variable Name       | Measurement Unit         | Allowed Values                                            | Description |
 |----------------|------------|----------------|-------------------------------------------------|------|
-| Date           | Date       | 날짜           | 데이터가 기록된 날짜                            | NA   | NA                       |
-| Temp           | Float      | 기온           | 해당 날짜의 평균 기온                            | °C   | NA                       |
-| Sales          | Integer    | 판매량         | 당일 총 판매량                                   | 개수 | NA                       |
-| Customer_Type  | Categorical| 고객 유형       | 고객의 유형을 나타냄 (개인, 기업)                  | NA   | 1 = 개인, 2 = 기업        |
-| Satisfaction   | Integer    | 고객 만족도     | 고객의 서비스 만족도 (1-5 점수)                   | 점수 | 1-5                       |
+| Year           | Date       | 날짜           | 데이터가 기록된 날짜                            | NA   | NA                       |
+| Month           | Float      | 기온           | 해당 날짜의 평균 기온                            | °C   | NA                       |
+| Dom_Pax          | Integer    | 판매량         | 당일 총 판매량                                   | 개수 | NA                       |
+| Int_Pax  | Categorical| 고객 유형       | 고객의 유형을 나타냄 (개인, 기업)                  | NA   | 1 = 개인, 2 = 기업        |
+| Pax   | Integer    | 고객 만족도     | 고객의 서비스 만족도 (1-5 점수)                   | 점수 | 1-5                       |
+| Dom_Flt  | Integer    | 고객 만족도     | 고객의 서비스 만족도 (1-5 점수)                   | 점수 | 1-5                       |
+| Int_Flt   | Integer    | 고객 만족도     | 고객의 서비스 만족도 (1-5 점수)                   | 점수 | 1-5                       |
+| Flt   | Integer    | 고객 만족도     | 고객의 서비스 만족도 (1-5 점수)                   | 점수 | 1-5                       |
+| Dom_Rpm   | Integer    | 고객 만족도     | 고객의 서비스 만족도 (1-5 점수)                   | 점수 | 1-5                       |
+| Int_Rpm   | Integer    | 고객 만족도     | 고객의 서비스 만족도 (1-5 점수)                   | 점수 | 1-5                       |
+
 
 ## 데이터 수집 방법
 
