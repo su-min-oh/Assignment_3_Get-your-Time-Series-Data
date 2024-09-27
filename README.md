@@ -8,7 +8,7 @@
 |----------------|------------|----------------|-------------------------------------------------|------|
 | Year           | Year       | Year           | 2000-2023   | NA   | 
 | Month           | Month      | Month           | 1-12  | °C   | 
-| Domestic Air Travel Passengers          | Dom_Pax    | Numeric         | 0-75,378,157   | 개수 |
+| Domestic Air Travel Passengers          | Dom_Pax    | Numeric         | 2877290-75378157   | 개수 |
 | International Air Travel Passengers   | Int_Pax| Numeric       | 고객의 유형을 나타냄 (개인, 기업) | NA   |
 | Total Air Travel Passengers    | Pax    | Numeric     | 고객의 서비스 만족도 (1-5 점수)  | 점수 |
 | Domestic Number of Flights  | Dom_Flt    | Numeric     | 고객의 서비스 만족도 (1-5 점수)  | 점수 |
