@@ -6,16 +6,16 @@
 
 | Variable         | Variable Name       | Measurement Unit         | Allowed Values                                            | Description |
 |----------------|------------|----------------|-------------------------------------------------|------|
-| Year           | Year       | 날짜           | 데이터가 기록된 날짜                            | NA   | NA                       |
-| Month           | Month      | 기온           | 해당 날짜의 평균 기온                            | °C   | NA                       |
-| Domestic Air Travel Passengers          | Dom_Pax    | 판매량         | 당일 총 판매량                                   | 개수 | NA                       |
-| International Air Travel Passengers   | Int_Pax| 고객 유형       | 고객의 유형을 나타냄 (개인, 기업)                  | NA   | 1 = 개인, 2 = 기업        |
-| Total Air Travel Passengers    | Pax    | 고객 만족도     | 고객의 서비스 만족도 (1-5 점수)                   | 점수 | 1-5                       |
-| Domestic Number of Flights  | Dom_Flt    | 고객 만족도     | 고객의 서비스 만족도 (1-5 점수)                   | 점수 | 1-5                       |
-| International Number of Flights    | Int_Flt    | 고객 만족도     | 고객의 서비스 만족도 (1-5 점수)                   | 점수 | 1-5                       |
-| Total Number of Flights   | Flt    | 고객 만족도     | 고객의 서비스 만족도 (1-5 점수)                   | 점수 | 1-5                       |
-| Domestic Revenue Passenger Miles   | Dom_Rpm    | 고객 만족도     | 고객의 서비스 만족도 (1-5 점수)                   | 점수 | 1-5                       |
-| International Revenue Passenger Miles   | Int_Rpm    | 고객 만족도     | 고객의 서비스 만족도 (1-5 점수)                   | 점수 | 1-5                       |
+| Year           | Year       | Year           | 데이터가 기록된 날짜                            | NA   | NA                       |
+| Month           | Month      | Month           | 해당 날짜의 평균 기온                            | °C   | NA                       |
+| Domestic Air Travel Passengers          | Dom_Pax    | Numeric         | 당일 총 판매량                                   | 개수 | NA                       |
+| International Air Travel Passengers   | Int_Pax| Numeric       | 고객의 유형을 나타냄 (개인, 기업)                  | NA   | 1 = 개인, 2 = 기업        |
+| Total Air Travel Passengers    | Pax    | Numeric     | 고객의 서비스 만족도 (1-5 점수)                   | 점수 | 1-5                       |
+| Domestic Number of Flights  | Dom_Flt    | Numeric     | 고객의 서비스 만족도 (1-5 점수)                   | 점수 | 1-5                       |
+| International Number of Flights    | Int_Flt    | Numeric     | 고객의 서비스 만족도 (1-5 점수)                   | 점수 | 1-5                       |
+| Total Number of Flights   | Flt    | Numeric     | 고객의 서비스 만족도 (1-5 점수)                   | 점수 | 1-5                       |
+| Domestic Revenue Passenger Miles   | Numeric    | 고객 만족도     | 고객의 서비스 만족도 (1-5 점수)                   | 점수 | 1-5                       |
+| International Revenue Passenger Miles   | Numeric    | 고객 만족도     | 고객의 서비스 만족도 (1-5 점수)                   | 점수 | 1-5                       |
 
 
 ## 데이터 수집 방법
