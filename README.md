@@ -14,8 +14,8 @@
 | Domestic Number of Flights  | Dom_Flt    | Numeric     | 고객의 서비스 만족도 (1-5 점수)                   | 점수 | 1-5                       |
 | International Number of Flights    | Int_Flt    | Numeric     | 고객의 서비스 만족도 (1-5 점수)                   | 점수 | 1-5                       |
 | Total Number of Flights   | Flt    | Numeric     | 고객의 서비스 만족도 (1-5 점수)                   | 점수 | 1-5                       |
-| Domestic Revenue Passenger Miles   | Numeric    | 고객 만족도     | 고객의 서비스 만족도 (1-5 점수)                   | 점수 | 1-5                       |
-| International Revenue Passenger Miles   | Numeric    | 고객 만족도     | 고객의 서비스 만족도 (1-5 점수)                   | 점수 | 1-5                       |
+| Domestic Revenue Passenger Miles   | Dom_RPM    | Numeric     | 고객의 서비스 만족도 (1-5 점수)                   | 점수 | 1-5                       |
+| International Revenue Passenger Miles   | Int_RPM    | Numeric     | 고객의 서비스 만족도 (1-5 점수)                   | 점수 | 1-5                       |
 
 
 ## 데이터 수집 방법
