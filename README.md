@@ -4,9 +4,9 @@
 
 ## 변수 설명
 
-| Variable         | Variable Name       | Measurement Unit         | Allowed Values                                            | Description |
+| Variable | Variable Name | Measurement Unit | Allowed Values  | Description |
 |----------------|------------|----------------|-------------------------------------------------|------|
-| Year           | Year       | Year           | 2000-2023                            | NA   | 
+| Year           | Year       | Year           | 2000-2023   | NA   | 
 | Month           | Month      | Month           | 1-12                            | °C   | 
 | Domestic Air Travel Passengers          | Dom_Pax    | Numeric         | 0-75,378,157                                   | 개수 |
 | International Air Travel Passengers   | Int_Pax| Numeric       | 고객의 유형을 나타냄 (개인, 기업)                  | NA   |
