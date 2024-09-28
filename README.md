@@ -1,6 +1,8 @@
 # Assignment_3_Get-your-Time-Series-Data
 
-## 1. CSV file uploaded to repository
+## 1. The Data File in Excel or CSV format
+"U.S. Airline Traffic Data (2003-2023)" - uploaded to repository in CSV format
+
 ## 2. Data Dictionary
 
 | Variable                             | Variable Name | Measurement Unit | Allowed Values     | Description |
@@ -23,11 +25,12 @@
 | International Load Factor            | Int_LF        | Numeric          | 23.15-89.44        | percentage of RPM/ASM, indicating the efficiency of utilization(international) |
 | Total Load Factor                    | LF            | Numeric          | 13.83-89.14        | percentage of RPM/ASM, indicating the efficiency of utilization(total) |
 
-## 3. Data Collection Methodology
+## 3. Data Collection Methodology. State how the data is collected, by whom, how often, etc. 
 
-- **날짜 및 기온 데이터**: 매일 자동으로 기상청에서 수집합니다.
-- **판매량 데이터**: 매일 매장 폐점 후 집계하여 기록합니다.
-- **고객 유형 및 만족도**: 고객이 제공한 정보 및 설문 조사를 통해 수집합니다.
+This data was retrieved from the Bureau of Transportation Statistics, licensed by U.S. Government Works.
+From Year 2003 to 2023, data was collected on a monthly basis.
+
+
 
 ## 4. Why does this data intrigue you?
 
