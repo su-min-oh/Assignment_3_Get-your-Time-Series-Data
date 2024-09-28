@@ -32,7 +32,7 @@
 ## 3. Data Collection Methodology. State how the data is collected, by whom, how often, etc. 
 
 | About     | Description   |
-|:-----------:|:---------------:|
+|-----------|---------------|
 | Source    | The data was retrieved from the Bureau of Transportation Statistics (BTS), specifically from the T-100 Segment dataset.      |
 | Who       | The Bureau of Transportation Statistics collects and manages this dataset.                                                   |
 | How       | The data is collected from airlines operating in the United States. Airlines are required to report monthly on their operations, including the number of passengers, flights, and miles traveled. This data is aggregated and verified by the Bureau of Transportation Statistics.                  |
