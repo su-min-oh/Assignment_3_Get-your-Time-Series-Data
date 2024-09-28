@@ -2,9 +2,7 @@
 
 ## 1. The Data File in Excel or CSV format
 "U.S. Airline Traffic Data (2003-2023)" - uploaded to repository in CSV format
-
-
-
+<br> <br>
 
 ## 2. Data Dictionary
 
