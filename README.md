@@ -31,7 +31,13 @@
 
 ## 3. Data Collection Methodology. State how the data is collected, by whom, how often, etc. 
 
-This data was retrieved from the Bureau of Transportation Statistics and is licensed under U.S. Government Works. The data was collected on a monthly basis from 2003 to 2023.
+| About     | Description   |
+|-----------|---------------|
+| Source    | The data was retrieved from the Bureau of Transportation Statistics (BTS), specifically from the T-100 Segment dataset.      |
+| Who       | The Bureau of Transportation Statistics collects and manages this dataset.                                                   |
+| How       | The data is collected from airlines operating in the United States. Airlines are required to report monthly on their operations, including the number of passengers, flights, and miles traveled. This data is aggregated and verified by the Bureau of Transportation Statistics.                  |
+| Frequency | Data is collected and reported on a monthly basis.                                                                           |
+| Notes     | The dataset spans from 2003 to 2023 and includes detailed information about both domestic and international flight segments. |
 
 <br> <br>
 
