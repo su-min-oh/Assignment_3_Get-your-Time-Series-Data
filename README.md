@@ -43,4 +43,7 @@
 
 ## 4. Why does this data intrigue you?
 
+In my opinion, airlines usage are one of the most seasonal data that we can observe in business situations. It clearly has a seasonal pattern wthin a year with repetitive figure year by year. <br>
+What I have noticed was that during Covid era, new cyclical pattern has developed and created new normal afterwards.
+<br>
 
