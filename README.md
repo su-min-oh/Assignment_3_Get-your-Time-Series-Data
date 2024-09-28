@@ -2,6 +2,7 @@
 
 ## 1. The Data File in Excel or CSV format
 "U.S. Airline Traffic Data (2003-2023)" - uploaded to repository in CSV format
+
 <br> <br>
 
 ## 2. Data Dictionary
@@ -26,15 +27,13 @@
 | International Load Factor            | Int_LF        | Numeric          | 23.15-89.44        | percentage of RPM/ASM, indicating the efficiency of utilization(international) |
 | Total Load Factor                    | LF            | Numeric          | 13.83-89.14        | percentage of RPM/ASM, indicating the efficiency of utilization(total) |
 
-
-
+<br> <br>
 
 ## 3. Data Collection Methodology. State how the data is collected, by whom, how often, etc. 
 
 This data was retrieved from the Bureau of Transportation Statistics and is licensed under U.S. Government Works. The data was collected on a monthly basis from 2003 to 2023.
 
-
-
+<br> <br>
 
 ## 4. Why does this data intrigue you?
 
